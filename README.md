@@ -1,4 +1,4 @@
-# Monsters Rolodex React Project Transformation
+# Monsters Rolodex Class Based React Project
 
 ## Introduction
 
